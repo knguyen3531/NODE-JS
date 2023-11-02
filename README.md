@@ -23,3 +23,7 @@ VIDEO:
 <https://marketplace.visualstudio.com/items?itemName=jock.svg>
 <https://github.com/SBoudrias/Inquirer.js>
 <https://jestjs.io/>
+
+https://knguyen3531.github.io/NODE-JS/
+
+https://github.com/knguyen3531/NODE-JS.git
