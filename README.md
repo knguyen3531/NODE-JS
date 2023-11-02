@@ -14,6 +14,9 @@ Command line tool to generate an svg logo and write it to file.
 VIDEO:
 [Untitled_ Nov 2, 2023 9_33 PM.webm](https://github.com/knguyen3531/NODE-JS/assets/141495563/7f32caf5-5a6c-48df-8f39-fb0617b6a739)
 
+![image](https://github.com/knguyen3531/NODE-JS/assets/141495563/0bb85ae9-4646-418d-bc5c-b9519d152919)
+
+
 ## References
 
 <https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Introduction>
